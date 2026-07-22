@@ -2,8 +2,8 @@
   "name": "提醒事项",
   "short_name": "提醒",
   "description": "简约通透的个人提醒应用，支持定时通知与重复提醒",
-  "start_url": "/",
-  "scope": "/",
+  "start_url": "/reminder-app/",
+  "scope": "/reminder-app/",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#f5f7ff",
@@ -11,19 +11,19 @@
   "lang": "zh-CN",
   "icons": [
     {
-      "src": "/icon.svg",
+      "src": "/reminder-app/icon.svg",
       "sizes": "any",
       "type": "image/svg+xml",
       "purpose": "any"
     },
     {
-      "src": "/icon-192.png",
+      "src": "/reminder-app/icon-192.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "/icon-512.png",
+      "src": "/reminder-app/icon-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
